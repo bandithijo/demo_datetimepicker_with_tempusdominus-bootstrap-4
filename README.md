@@ -21,6 +21,12 @@
 
 ## 🌎 Testing location
 
+Install Javascript dependencies,
+
+```
+$ rails yarn:install
+```
+
 Run migration,
 
 ```
